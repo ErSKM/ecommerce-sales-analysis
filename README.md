@@ -70,7 +70,16 @@ This project analyzes e-commerce transaction data to uncover insights about sale
 ---
 
 ## 📂 Dataset
-E-commerce transactional dataset containing customer purchases, product details, and sales information.
+
+The dataset used in this project is not included due to file size limitations.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+After downloading:
+1. Place the file in the same folder as the notebook
+2. Rename it as `ecommerce.csv` (if needed)
+3. Run the notebook
 
 ---
 
